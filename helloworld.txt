@@ -1,0 +1,3 @@
+Each line will be tweeted by the bot
+At separate times (depending on the interval we set)
+Check twitter after you've run this 
